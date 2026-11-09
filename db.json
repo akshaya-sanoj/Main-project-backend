@@ -1,0 +1,514 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Fest Committee Admin",
+      "email": "admin@gmail.com",
+      "registerNo": "",
+      "staffId": "",
+      "password": "123456",
+      "department": "",
+      "role": "committee",
+      "baseType": "committee"
+    },
+    {
+      "id": "u2",
+      "name": "Priya Menon",
+      "email": "coordcs@gmail.com",
+      "registerNo": "",
+      "staffId": "T010",
+      "password": "123456",
+      "department": "Computer Science (CSE)",
+      "role": "dept_coordinator",
+      "baseType": "teacher",
+      "duties": [
+        "dept_coordinator"
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Anil Kumar",
+      "email": "anil@gmail.com",
+      "registerNo": "",
+      "staffId": "T001",
+      "password": "123456",
+      "department": "Computer Science (CSE)",
+      "role": "class_teacher",
+      "baseType": "teacher",
+      "duties": [
+        "class_teacher"
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Meera Nair",
+      "email": "meera@gmail.com",
+      "registerNo": "",
+      "staffId": "T002",
+      "password": "123456",
+      "department": "Computer Science (CSE)",
+      "role": "board_incharge",
+      "baseType": "teacher",
+      "duties": [
+        "board_incharge"
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Arjun Das",
+      "email": "arjun@gmail.com",
+      "registerNo": "VAS22CS016",
+      "staffId": "",
+      "password": "123456",
+      "department": "Computer Science (CSE)",
+      "role": "student",
+      "baseType": "student"
+    },
+    {
+      "id": "u6",
+      "name": "Fida Rahman",
+      "email": "fida@gmail.com",
+      "registerNo": "VAS22CS032",
+      "staffId": "",
+      "password": "123456",
+      "department": "Computer Science (CSE)",
+      "role": "volunteer",
+      "baseType": "volunteer"
+    },
+    {
+      "id": "u7",
+      "name": "Guest Judge",
+      "email": "judge@gmail.com",
+      "registerNo": "",
+      "staffId": "",
+      "password": "123456",
+      "department": "",
+      "role": "judge",
+      "baseType": "external"
+    },
+    {
+      "id": "t_1794219420353",
+      "name": "Prof Jeeva",
+      "email": "jeeva@gmail.com",
+      "registerNo": "",
+      "staffId": "T055",
+      "password": "123456",
+      "department": "Electronics (ECE)",
+      "role": "dept_coordinator",
+      "baseType": "teacher",
+      "duties": [
+        "dept_coordinator"
+      ],
+      "approved": true
+    },
+    {
+      "id": "t_1794219911602",
+      "name": "Gopika",
+      "email": "gopika@gmail.com",
+      "registerNo": "",
+      "staffId": "T100",
+      "password": "123456",
+      "department": "Computer Science (CSE)",
+      "role": "class_teacher",
+      "baseType": "teacher",
+      "duties": [
+        "class_teacher"
+      ],
+      "approved": true
+    },
+    {
+      "id": "u8",
+      "name": "Rohan Varma",
+      "email": "rohan@gmail.com",
+      "registerNo": "",
+      "staffId": "T011",
+      "password": "123456",
+      "department": "Mechanical Engineering (ME)",
+      "role": "dept_coordinator",
+      "baseType": "teacher",
+      "duties": [
+        "dept_coordinator"
+      ],
+      "approved": true
+    },
+    {
+      "name": "Reshmi",
+      "department": "AIML",
+      "baseType": "teacher",
+      "role": "teacher",
+      "duties": [],
+      "approved": true,
+      "email": "reshmi@campusfest.edu",
+      "staffId": "STF-6054",
+      "createdAt": "2026-11-09T12:25:38.098Z",
+      "id": "eMzTvpM"
+    },
+    {
+      "name": "Riya",
+      "department": "EEE",
+      "baseType": "teacher",
+      "role": "teacher",
+      "duties": [],
+      "approved": true,
+      "email": "riya@gmail.com",
+      "staffId": "T-4135",
+      "createdAt": "2026-11-09T12:32:09.360Z",
+      "id": "UTqZHfE"
+    },
+    {
+      "name": "Dr Reshmi",
+      "department": "AIML",
+      "baseType": "teacher",
+      "role": "dept_coordinator",
+      "duties": [
+        "dept_coordinator"
+      ],
+      "approved": true,
+      "email": "drreshmi@gmail.com",
+      "staffId": "T5800",
+      "createdAt": "2026-11-09T12:33:07.639Z",
+      "id": "BkFqucr"
+    },
+    {
+      "name": "Dr Riya",
+      "department": "EEE",
+      "baseType": "teacher",
+      "role": "dept_coordinator",
+      "duties": [
+        "dept_coordinator"
+      ],
+      "approved": true,
+      "email": "drriya@gmail.com",
+      "staffId": "T5377",
+      "createdAt": "2026-11-09T12:34:28.279Z",
+      "id": "uJFiaFA"
+    },
+    {
+      "name": "Dr Reshmi",
+      "email": "drreshmi@gmail.com",
+      "staffId": "STF-9612",
+      "department": "AIML",
+      "baseType": "teacher",
+      "role": "teacher",
+      "duties": [],
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T12:42:11.718Z",
+      "id": "AT2qE6k"
+    },
+    {
+      "name": "Payal",
+      "email": "payal@gmail.com",
+      "department": "CE",
+      "staffId": "T501",
+      "baseType": "teacher",
+      "role": "dept_coordinator",
+      "duties": [
+        "dept_coordinator"
+      ],
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T13:03:42.307Z",
+      "id": "qNRpdT4"
+    },
+    {
+      "name": "Thulasi",
+      "email": "thulasi@gmail.com",
+      "department": "CSE",
+      "staffId": "T205",
+      "baseType": "teacher",
+      "role": "teacher",
+      "duties": [
+        "teacher"
+      ],
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T13:41:09.506Z",
+      "id": "JxbxPxj"
+    },
+    {
+      "name": "MILNA",
+      "email": "milna@gmail.com",
+      "department": "EEE",
+      "staffId": "T854",
+      "baseType": "teacher",
+      "role": "teacher",
+      "duties": [
+        "teacher"
+      ],
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T14:17:45.040Z",
+      "id": "NFPt5B5"
+    },
+    {
+      "name": "Sunitha",
+      "email": "sunitha@gmail.com",
+      "department": "AIML",
+      "staffId": "T102",
+      "baseType": "teacher",
+      "role": "teacher",
+      "duties": [
+        "teacher"
+      ],
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T14:23:42.030Z",
+      "id": "N90XPm_"
+    },
+    {
+      "name": "Amitha",
+      "email": "amitha@gmail.com",
+      "department": "AIML",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "S-741",
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T16:27:17.240Z",
+      "id": "Wii1nCw"
+    },
+    {
+      "name": "Amitha",
+      "email": "amitha@gmail.com",
+      "department": "AIML",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "S-741",
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T16:33:10.767Z",
+      "id": "Wa-6uEg"
+    },
+    {
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "department": "AIML",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "S-741",
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T16:34:14.238Z",
+      "id": "gT6di5_"
+    },
+    {
+      "name": "volunteer",
+      "email": "volunteer@gmail.com",
+      "department": "volunteer",
+      "baseType": "student",
+      "role": "volunteer",
+      "duties": [
+        "volunteer"
+      ],
+      "registerNo": "S-7474",
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T16:38:14.404Z",
+      "id": "yZX2uhM"
+    },
+    {
+      "name": "volunteers",
+      "email": "v@gmail.com",
+      "department": "v",
+      "baseType": "student",
+      "role": "volunteer",
+      "duties": [
+        "volunteer"
+      ],
+      "registerNo": "v001",
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-09T16:40:34.740Z",
+      "id": "uuYYKdd"
+    }
+  ],
+  "fests": [
+    {
+      "name": "ADWIKA",
+      "mode": "College",
+      "deadline": "2026-11-30",
+      "festDate": "2027-01-15",
+      "venue": "VAST",
+      "volunteerCoord": "Dr Arun",
+      "foodCoord": "Prof Anna",
+      "mediaCoord": "Surabhi",
+      "published": true,
+      "createdAt": "2026-11-09T11:45:49.897Z",
+      "id": 2,
+      "publishedAt": "2026-11-09T12:12:10.093Z"
+    }
+  ],
+  "coordinators": [],
+  "programs": [
+    {
+      "name": "Recitations",
+      "stage": "onstage",
+      "language": [
+        "Malayalam",
+        "English",
+        "Hindi",
+        "Arabic",
+        "Tamil",
+        "Sanskrit"
+      ],
+      "kind": "individual",
+      "maxGroupSize": null,
+      "festId": 2,
+      "assignments": {},
+      "id": 3
+    },
+    {
+      "name": "Light Music",
+      "stage": "onstage",
+      "language": [],
+      "kind": "individual",
+      "maxGroupSize": null,
+      "festId": 2,
+      "assignments": {},
+      "id": 4
+    },
+    {
+      "name": "Group Song",
+      "stage": "onstage",
+      "language": [
+        "Malayalam",
+        "English",
+        "Hindi"
+      ],
+      "kind": "group",
+      "maxGroupSize": 10,
+      "festId": 2,
+      "assignments": {},
+      "id": 5
+    },
+    {
+      "name": "Patriotic Song",
+      "stage": "onstage",
+      "language": [
+        "Malayalam",
+        "English"
+      ],
+      "kind": "group",
+      "maxGroupSize": 10,
+      "festId": 2,
+      "assignments": {},
+      "id": 6
+    },
+    {
+      "name": "Bharatanatyam",
+      "stage": "onstage",
+      "language": [],
+      "kind": "individual",
+      "maxGroupSize": null,
+      "festId": 2,
+      "assignments": {},
+      "id": 7
+    },
+    {
+      "name": "Oppana",
+      "stage": "onstage",
+      "language": [],
+      "kind": "group",
+      "maxGroupSize": 12,
+      "festId": 2,
+      "assignments": {},
+      "id": 8
+    },
+    {
+      "name": "Essay Writing",
+      "stage": "offstage",
+      "language": [
+        "Malayalam",
+        "English",
+        "Hindi",
+        "Arabic",
+        "Urdu",
+        "Sanskrit",
+        "Tamil"
+      ],
+      "kind": "individual",
+      "maxGroupSize": null,
+      "festId": 2,
+      "assignments": {},
+      "id": 9
+    },
+    {
+      "name": "Story Writing",
+      "stage": "offstage",
+      "language": [
+        "Malayalam",
+        "Arabic",
+        "English",
+        "Urdu",
+        "Hindi",
+        "Sanskrit",
+        "Tamil"
+      ],
+      "kind": "individual",
+      "maxGroupSize": null,
+      "festId": 2,
+      "assignments": {},
+      "id": 10
+    },
+    {
+      "name": "Quiz",
+      "stage": "offstage",
+      "language": [],
+      "kind": "group",
+      "maxGroupSize": 3,
+      "festId": 2,
+      "assignments": {},
+      "id": 11
+    },
+    {
+      "name": "Pencil Drawing",
+      "stage": "offstage",
+      "language": [],
+      "kind": "individual",
+      "maxGroupSize": null,
+      "festId": 2,
+      "assignments": {},
+      "id": 12
+    },
+    {
+      "name": "water colouring",
+      "stage": "offstage",
+      "language": [],
+      "kind": "individual",
+      "maxGroupSize": null,
+      "festId": 2,
+      "assignments": {},
+      "id": 13
+    },
+    {
+      "name": "Duffmuttu",
+      "stage": "onstage",
+      "language": [],
+      "kind": "group",
+      "maxGroupSize": 10,
+      "festId": 2,
+      "assignments": {},
+      "id": 14
+    }
+  ]
+}
