@@ -1,4 +1,7 @@
 {
+  "sections": [],
+  "deptFunds": [],
+  "payments": [],
   "users": [
     {
       "id": "u1",
@@ -114,7 +117,8 @@
       "duties": [
         "class_teacher"
       ],
-      "approved": true
+      "approved": true,
+      "classSection": "S6 CSE A"
     },
     {
       "id": "u8",
@@ -221,13 +225,15 @@
       "baseType": "teacher",
       "role": "teacher",
       "duties": [
-        "teacher"
+        "teacher",
+        "class_teacher"
       ],
       "approved": true,
       "rejected": false,
       "password": "123456",
       "createdAt": "2026-11-09T13:41:09.506Z",
-      "id": "JxbxPxj"
+      "id": "JxbxPxj",
+      "classSection": "S6 CSE B"
     },
     {
       "name": "MILNA",
@@ -340,6 +346,24 @@
       "password": "123456",
       "createdAt": "2026-11-09T16:40:34.740Z",
       "id": "uuYYKdd"
+    },
+    {
+      "name": "Jucy Vareed",
+      "email": "jucy@gmail.com",
+      "department": "CSE",
+      "baseType": "teacher",
+      "role": "teacher",
+      "duties": [
+        "teacher",
+        "class_teacher"
+      ],
+      "staffId": "S450",
+      "approved": true,
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-10T05:02:38.746Z",
+      "id": "AtmUfHB",
+      "classSection": "S8 CSE A"
     }
   ],
   "fests": [
@@ -356,6 +380,19 @@
       "createdAt": "2026-11-09T11:45:49.897Z",
       "id": 2,
       "publishedAt": "2026-11-09T12:12:10.093Z"
+    },
+    {
+      "name": "SPORTS MEET",
+      "mode": "College",
+      "deadline": "2026-11-30",
+      "festDate": "2026-12-15",
+      "venue": "VAST",
+      "volunteerCoord": "Unassigned",
+      "foodCoord": "Unassigned",
+      "mediaCoord": "Unassigned",
+      "published": false,
+      "createdAt": "2026-11-10T11:28:13.668Z",
+      "id": 3
     }
   ],
   "coordinators": [],
@@ -477,7 +514,11 @@
       "kind": "group",
       "maxGroupSize": 3,
       "festId": 2,
-      "assignments": {},
+      "assignments": {
+        "cse": [
+          "AtmUfHB"
+        ]
+      },
       "id": 11
     },
     {
