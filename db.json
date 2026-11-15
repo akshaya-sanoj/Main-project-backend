@@ -1,4 +1,814 @@
 {
+  "classLists": [],
+  "staffLists": [
+    {
+      "staffId": "T001",
+      "name": "Dr. Anand Kumar",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 1
+    },
+    {
+      "staffId": "T002",
+      "name": "Deepa S.",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 2
+    },
+    {
+      "staffId": "T003",
+      "name": "Rajesh Menon",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 3
+    },
+    {
+      "staffId": "T004",
+      "name": "Smitha Nair",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 4
+    },
+    {
+      "staffId": "T005",
+      "name": "Vinod Kumar",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 5
+    },
+    {
+      "staffId": "T006",
+      "name": "Remya R.",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 6
+    },
+    {
+      "staffId": "T007",
+      "name": "Sreejith P.",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 7
+    },
+    {
+      "staffId": "T008",
+      "name": "Anju Mohan",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 8
+    },
+    {
+      "staffId": "T009",
+      "name": "Arun Das",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 9
+    },
+    {
+      "staffId": "T010",
+      "name": "Priya Menon",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 10
+    },
+    {
+      "staffId": "T011",
+      "name": "Biju Thomas",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 11
+    },
+    {
+      "staffId": "T012",
+      "name": "Liji Joseph",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 12
+    },
+    {
+      "staffId": "T013",
+      "name": "Suresh Kumar",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 13
+    },
+    {
+      "staffId": "T014",
+      "name": "Anitha V.",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 14
+    },
+    {
+      "staffId": "T015",
+      "name": "Manoj V.",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 15
+    },
+    {
+      "staffId": "T016",
+      "name": "Divya S.",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 16
+    },
+    {
+      "staffId": "T017",
+      "name": "Rajeshwari K.",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 17
+    },
+    {
+      "staffId": "T018",
+      "name": "Pradeep Kumar",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 18
+    },
+    {
+      "staffId": "T019",
+      "name": "Neethu Mohan",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 19
+    },
+    {
+      "staffId": "T020",
+      "name": "Shibu P.",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 20
+    },
+    {
+      "staffId": "T021",
+      "name": "Dr. Radhakrishnan",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 21
+    },
+    {
+      "staffId": "T022",
+      "name": "Mini R.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 22
+    },
+    {
+      "staffId": "T023",
+      "name": "Santhosh Kumar",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 23
+    },
+    {
+      "staffId": "T024",
+      "name": "Bindu V.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 24
+    },
+    {
+      "staffId": "T025",
+      "name": "Jithesh T.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 25
+    },
+    {
+      "staffId": "T026",
+      "name": "Sreelekha P.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 26
+    },
+    {
+      "staffId": "T027",
+      "name": "Haridas K.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 27
+    },
+    {
+      "staffId": "T028",
+      "name": "Smitha K.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 28
+    },
+    {
+      "staffId": "T029",
+      "name": "Ajith Kumar",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 29
+    },
+    {
+      "staffId": "T030",
+      "name": "Reshma R.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 30
+    },
+    {
+      "staffId": "T031",
+      "name": "Dr. Mathew Paul",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 31
+    },
+    {
+      "staffId": "T032",
+      "name": "Sreeja T.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 32
+    },
+    {
+      "staffId": "T033",
+      "name": "Pramod Kumar",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 33
+    },
+    {
+      "staffId": "T034",
+      "name": "Dhanya S.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 34
+    },
+    {
+      "staffId": "T035",
+      "name": "Renjith R.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 35
+    },
+    {
+      "staffId": "T036",
+      "name": "Anusree M.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 36
+    },
+    {
+      "staffId": "T037",
+      "name": "Jaison George",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 37
+    },
+    {
+      "staffId": "T038",
+      "name": "Vidya V.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 38
+    },
+    {
+      "staffId": "T039",
+      "name": "Sandeep K.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 39
+    },
+    {
+      "staffId": "T040",
+      "name": "Jyothi R.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 40
+    },
+    {
+      "staffId": "T041",
+      "name": "Dr. Geetha M.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 41
+    },
+    {
+      "staffId": "T042",
+      "name": "Shaju P.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 42
+    },
+    {
+      "staffId": "T043",
+      "name": "Asha V.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 43
+    },
+    {
+      "staffId": "T044",
+      "name": "Naveen K.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 44
+    },
+    {
+      "staffId": "T045",
+      "name": "Deepthi S.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 45
+    },
+    {
+      "staffId": "T046",
+      "name": "Reji Thomas",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 46
+    },
+    {
+      "staffId": "T047",
+      "name": "Neethu R.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 47
+    },
+    {
+      "staffId": "T048",
+      "name": "Vimal Raj",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 48
+    },
+    {
+      "staffId": "T049",
+      "name": "Soumya P.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 49
+    },
+    {
+      "staffId": "T050",
+      "name": "Unnikrishnan",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 50
+    },
+    {
+      "staffId": "T051",
+      "name": "Dr. Sreelatha",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 51
+    },
+    {
+      "staffId": "T052",
+      "name": "Nikhil Das",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 52
+    },
+    {
+      "staffId": "T053",
+      "name": "Keerthana S.",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 53
+    },
+    {
+      "staffId": "T054",
+      "name": "Rahul V.",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 54
+    },
+    {
+      "staffId": "T055",
+      "name": "Jeeva K.",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 55
+    },
+    {
+      "staffId": "T056",
+      "name": "Swathy P.",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 56
+    },
+    {
+      "staffId": "T057",
+      "name": "Arun Kumar",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 57
+    },
+    {
+      "staffId": "T058",
+      "name": "Aparna R.",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 58
+    },
+    {
+      "staffId": "T059",
+      "name": "Vishnu S.",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 59
+    },
+    {
+      "staffId": "T060",
+      "name": "Anjali Menon",
+      "department": "AI & DS\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 60
+    },
+    {
+      "staffId": "T061",
+      "name": "Dr. Subhash Nair",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 61
+    },
+    {
+      "staffId": "T062",
+      "name": "Dhanya Ramesh",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 62
+    },
+    {
+      "staffId": "T063",
+      "name": "Kiran Mohan",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 63
+    },
+    {
+      "staffId": "T064",
+      "name": "Remya Suresh",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 64
+    },
+    {
+      "staffId": "T065",
+      "name": "Sangeeth P.",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 65
+    },
+    {
+      "staffId": "T066",
+      "name": "Divya Nair",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 66
+    },
+    {
+      "staffId": "T067",
+      "name": "Akhil Das",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 67
+    },
+    {
+      "staffId": "T068",
+      "name": "Sruthi K.",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 68
+    },
+    {
+      "staffId": "T069",
+      "name": "Vivek V.",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 69
+    },
+    {
+      "staffId": "T070",
+      "name": "Pooja Menon",
+      "department": "IT\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 70
+    },
+    {
+      "staffId": "T071",
+      "name": "Dr. K. P. Soman",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 71
+    },
+    {
+      "staffId": "T072",
+      "name": "Resmi R.",
+      "department": "CSE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 72
+    },
+    {
+      "staffId": "T073",
+      "name": "Sandeep V.",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 73
+    },
+    {
+      "staffId": "T074",
+      "name": "Soumya S.",
+      "department": "ECE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 74
+    },
+    {
+      "staffId": "T075",
+      "name": "Pramod V.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 75
+    },
+    {
+      "staffId": "T076",
+      "name": "Anju K.",
+      "department": "EEE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 76
+    },
+    {
+      "staffId": "T077",
+      "name": "Jithesh M.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 77
+    },
+    {
+      "staffId": "T078",
+      "name": "Preetha P.",
+      "department": "ME\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 78
+    },
+    {
+      "staffId": "T079",
+      "name": "Rajesh V.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 79
+    },
+    {
+      "staffId": "T080",
+      "name": "Smitha R.",
+      "department": "CE\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 80
+    },
+    {
+      "staffId": "T081",
+      "name": "Dr. C. S. Narayanan",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 81
+    },
+    {
+      "staffId": "T082",
+      "name": "Sreedevi K.",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 82
+    },
+    {
+      "staffId": "T083",
+      "name": "Ajayakumar T.",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 83
+    },
+    {
+      "staffId": "T084",
+      "name": "Radhika V.",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 84
+    },
+    {
+      "staffId": "T085",
+      "name": "Manoj Kumar",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 85
+    },
+    {
+      "staffId": "T086",
+      "name": "Swapna P.",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 86
+    },
+    {
+      "staffId": "T087",
+      "name": "Shaju George",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 87
+    },
+    {
+      "staffId": "T088",
+      "name": "Deepa Mohan",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 88
+    },
+    {
+      "staffId": "T089",
+      "name": "Biju V.",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 89
+    },
+    {
+      "staffId": "T090",
+      "name": "Sunitha R.",
+      "department": "Basic Science\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 90
+    },
+    {
+      "staffId": "T091",
+      "name": "Dr. V. P. Devadas",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 91
+    },
+    {
+      "staffId": "T092",
+      "name": "Remya Ramachandran",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 92
+    },
+    {
+      "staffId": "T093",
+      "name": "Sreejith K.",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 93
+    },
+    {
+      "staffId": "T094",
+      "name": "Anitha George",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 94
+    },
+    {
+      "staffId": "T095",
+      "name": "Naveen Menon",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 95
+    },
+    {
+      "staffId": "T096",
+      "name": "Divya Raj",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 96
+    },
+    {
+      "staffId": "T097",
+      "name": "Arun V.",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 97
+    },
+    {
+      "staffId": "T098",
+      "name": "Smitha Suresh",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 98
+    },
+    {
+      "staffId": "T099",
+      "name": "Rahul Krishnan",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 99
+    },
+    {
+      "staffId": "T100",
+      "name": "Neethu Das",
+      "department": "MBA\"",
+      "uploadedAt": "2026-11-15T02:25:16.365Z",
+      "uploadedBy": "Admin",
+      "id": 100
+    },
+    {
+      "className": "S8 CSE A",
+      "department": "Computer Science (CSE)",
+      "content": "REG202601, Anu Mathew, 05/03/2004\nREG202602, Rahul Varma, 17/11/2003\nREG202603, Sneha Das, 12/06/2004\nREG202604, Muhammed Al Ameen, 25/09/2003\nREG202605, Arya S Nair, 02/01/2004\nREG202606, Amaljith K, 19/07/2003\nREG202607, Fathima Riya, 14.11.2003\nREG202608, Sangeeth Kumar, 30/04/2004",
+      "updatedAt": "2026-11-15T13:45:51.973Z",
+      "id": 101
+    }
+  ],
   "sections": [
     {
       "deptKey": "cse",
@@ -75,6 +885,56 @@
       "forwardedAt": "2026-11-13T05:00:38.018Z",
       "forwardedBy": "minnu",
       "forwardedById": "WYlvru8"
+    },
+    {
+      "festId": 2,
+      "festName": "ADWIKA",
+      "programId": "3",
+      "eventName": "Recitations",
+      "eventType": "Single",
+      "studentName": "Abhirami",
+      "studentId": "S789",
+      "department": "CSE",
+      "semester": "S4",
+      "phone": "9741852630",
+      "members": [],
+      "teacherId": "JxbxPxj",
+      "teacherName": "Thulasi",
+      "teacherEmail": "thulasi@gmail.com",
+      "teacherDept": "CSE",
+      "deptKey": "cse",
+      "status": "Forwarded to Admin",
+      "createdAt": "2026-11-14T11:41:15.193Z",
+      "id": 2,
+      "submittedAt": "2026-11-14T11:45:05.751Z",
+      "submittedBy": "Thulasi",
+      "forwardedAt": "2026-11-14T11:45:23.975Z",
+      "forwardedBy": "Thulasi",
+      "forwardedById": "JxbxPxj"
+    },
+    {
+      "festId": 2,
+      "festName": "ADWIKA",
+      "programId": "12",
+      "eventName": "Pencil Drawing",
+      "eventType": "Single",
+      "studentName": "Adwaith",
+      "studentId": "REG22013",
+      "department": "CSE\"",
+      "semester": "S8",
+      "phone": "9874563210",
+      "members": [],
+      "teacherId": "pDRgmOt",
+      "teacherName": "Remya R",
+      "teacherEmail": "remyar@gmail.com",
+      "teacherDept": "CSE\"",
+      "deptKey": "cse",
+      "status": "Forwarded to Admin",
+      "createdAt": "2026-11-15T13:48:05.295Z",
+      "id": 3,
+      "submittedAt": "2026-11-15T13:48:08.876Z",
+      "submittedBy": "Remya R",
+      "forwardedAt": "2026-11-15T13:48:20.728Z"
     }
   ],
   "deptFunds": [
@@ -92,6 +952,14 @@
       "amount": 100,
       "updatedAt": "2026-11-13T04:45:04.721Z",
       "id": 2
+    },
+    {
+      "festId": 2,
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "amount": 300,
+      "updatedAt": "2026-11-15T10:46:10.627Z",
+      "id": 3
     }
   ],
   "payments": [
@@ -129,6 +997,23 @@
       "recordedBy": "NFPt5B5",
       "paidAt": "2026-11-13T04:52:15.638Z",
       "id": 2
+    },
+    {
+      "festId": 2,
+      "festName": "ADWIKA",
+      "studentId": "Ax-Qpkz",
+      "studentName": "Afsal",
+      "registerNo": "S2214",
+      "department": "Computer Science (CSE)",
+      "deptKey": "cse",
+      "classSection": "S8 CSE A",
+      "amount": 300,
+      "currency": "INR",
+      "status": "paid",
+      "provider": "test",
+      "providerRef": null,
+      "paidAt": "2026-11-15T14:01:12.230Z",
+      "id": 3
     }
   ],
   "users": [
@@ -569,6 +1454,47 @@
       "password": "123456",
       "createdAt": "2026-11-13T04:49:38.433Z",
       "id": "WYlvru8"
+    },
+    {
+      "name": "Remya R",
+      "email": "remyar@gmail.com",
+      "department": "CSE\"",
+      "baseType": "teacher",
+      "role": "teacher",
+      "duties": [
+        "teacher",
+        "class_teacher"
+      ],
+      "staffId": "T006",
+      "approved": true,
+      "approvalMethod": "staff_list",
+      "approvedAt": "2026-11-15T02:27:37.947Z",
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-15T02:27:37.947Z",
+      "id": "pDRgmOt",
+      "classSection": "S4 CSE A"
+    },
+    {
+      "name": "Afsal",
+      "email": "afsal@gmail.com",
+      "department": "Computer Science (CSE)",
+      "classSection": "S8 CSE A",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "S2214",
+      "approved": true,
+      "listCheck": "not_on_list",
+      "approvalMethod": "class_teacher",
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-15T13:58:49.604Z",
+      "id": "Ax-Qpkz",
+      "approvedBy": "Jucy Vareed",
+      "approvedAt": "2026-11-15T14:00:38.094Z"
     }
   ],
   "fests": [
@@ -619,6 +1545,9 @@
       "assignments": {
         "eee": [
           "NFPt5B5"
+        ],
+        "cse": [
+          "JxbxPxj"
         ]
       },
       "id": 3
@@ -741,7 +1670,11 @@
       "kind": "individual",
       "maxGroupSize": null,
       "festId": 2,
-      "assignments": {},
+      "assignments": {
+        "cse": [
+          "pDRgmOt"
+        ]
+      },
       "id": 12
     },
     {
