@@ -1,5 +1,176 @@
 {
-  "classLists": [],
+  "results": [
+    {
+      "festId": 2,
+      "programId": 3,
+      "programName": "Recitations",
+      "registrationId": 1,
+      "studentId": "S123",
+      "studentName": "Minnu",
+      "department": "EEE",
+      "deptKey": "eee",
+      "score": 90,
+      "rank": "2nd Place",
+      "judgeId": "u7",
+      "judgeName": "Guest Judge",
+      "status": "submitted",
+      "updatedAt": "2026-11-16T05:19:39.423Z",
+      "submittedAt": "2026-11-16T05:19:39.423Z",
+      "id": 1
+    },
+    {
+      "festId": 2,
+      "programId": 3,
+      "programName": "Recitations",
+      "registrationId": 2,
+      "studentId": "S789",
+      "studentName": "Abhirami",
+      "department": "CSE",
+      "deptKey": "cse",
+      "score": 95,
+      "rank": "1st Place",
+      "judgeId": "u7",
+      "judgeName": "Guest Judge",
+      "status": "submitted",
+      "updatedAt": "2026-11-16T05:19:39.586Z",
+      "submittedAt": "2026-11-16T05:19:39.586Z",
+      "id": 2
+    }
+  ],
+  "classLists": [
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "registerNo": "CSE2601",
+      "name": "Anu Mathew",
+      "dobHash": "f5a3ffa8676d87c3d527a1d58700f887aa23fc00233e375ec948d66bb71a48fd",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T18:55:20.844Z",
+      "uploadedBy": "Coordinator",
+      "id": 1
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "registerNo": "CSE2602",
+      "name": "Rahul Varma",
+      "dobHash": "c6cc74d194720e325b543bdf21dac810a9a96d8224ed1d6b1ca4d8360d7c2f03",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T18:55:20.844Z",
+      "uploadedBy": "Coordinator",
+      "id": 2
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "registerNo": "CSE2603",
+      "name": "Diya Menon",
+      "dobHash": "19c943e3c6113399ba6502a391e9bad8cc86d052f53b25de67b60c32db93ccc5",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T18:55:20.844Z",
+      "uploadedBy": "Coordinator",
+      "id": 3
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "registerNo": "CSE2604",
+      "name": "Karthik Nair",
+      "dobHash": "b8e811d409152af4d7bfb268db065299221d3771309e5d6ee861c102cb40cf30",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T18:55:20.844Z",
+      "uploadedBy": "Coordinator",
+      "id": 4
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "registerNo": "CSE2605",
+      "name": "Fathima Beevi",
+      "dobHash": "abfbaf6b3c8fb690786db841b40cd64a0c5adf33a86e2583411d917cfab25249",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T18:55:20.844Z",
+      "uploadedBy": "Coordinator",
+      "id": 5
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "registerNo": "CSE2606",
+      "name": "Arjun Das",
+      "dobHash": "5ca87e69089cffbc63910984af456bdfcb8a112c6b465684498335c117bdd441",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T18:55:20.844Z",
+      "uploadedBy": "Coordinator",
+      "id": 6
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S8 CSE A",
+      "registerNo": "CSE2611",
+      "name": "Meera Joseph",
+      "dobHash": "06346ea6487bcf0967d173de3be1a8e639e802a8e2ddf13b5597c7e1610c829d",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T19:00:34.258Z",
+      "uploadedBy": "Priya Menon",
+      "id": 7
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S8 CSE A",
+      "registerNo": "CSE2612",
+      "name": "Sanjay Pillai",
+      "dobHash": "8173b4886b546fa72ee42be2a4724ee947ca29be391aacfed38b3443bfca3dc4",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T19:03:00.981Z",
+      "uploadedBy": "Priya Menon",
+      "id": 8
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S8 CSE A",
+      "registerNo": "CSE2613",
+      "name": "Neha George",
+      "dobHash": "156b8454756887c59e5870219aff385487796aaa8d877254496839c51392504b",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T19:03:00.981Z",
+      "uploadedBy": "Priya Menon",
+      "id": 9
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S8 CSE A",
+      "registerNo": "CSE2614",
+      "name": "Vivek Kumar",
+      "dobHash": "18f60bf312b7533714cfa7f325f6c45c7d5fef1f4f0cdc11bf3aee1438dab175",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T19:03:00.981Z",
+      "uploadedBy": "Priya Menon",
+      "id": 10
+    },
+    {
+      "deptKey": "cse",
+      "department": "Computer Science (CSE)",
+      "classSection": "S8 CSE A",
+      "registerNo": "CSE2615",
+      "name": "Lakshmi Priya",
+      "dobHash": "f1215a131cc4de583005d1b66fe63c7e6335ba304daaee9f6327312b572435af",
+      "hasDob": true,
+      "uploadedAt": "2026-11-15T19:03:00.981Z",
+      "uploadedBy": "Priya Menon",
+      "id": 11
+    }
+  ],
   "staffLists": [
     {
       "staffId": "T001",
@@ -1014,6 +1185,23 @@
       "providerRef": null,
       "paidAt": "2026-11-15T14:01:12.230Z",
       "id": 3
+    },
+    {
+      "festId": 2,
+      "festName": "ADWIKA",
+      "studentId": "owoTB6n",
+      "studentName": "Anu Mathew",
+      "registerNo": "CSE2601",
+      "department": "Computer Science (CSE)",
+      "deptKey": "cse",
+      "classSection": "S6 CSE A",
+      "amount": 300,
+      "currency": "INR",
+      "status": "paid",
+      "provider": "test",
+      "providerRef": null,
+      "paidAt": "2026-11-15T19:09:03.851Z",
+      "id": 4
     }
   ],
   "users": [
@@ -1133,13 +1321,11 @@
       "staffId": "T100",
       "password": "123456",
       "department": "Computer Science (CSE)",
-      "role": "class_teacher",
+      "role": "teacher",
       "baseType": "teacher",
-      "duties": [
-        "class_teacher"
-      ],
+      "duties": [],
       "approved": true,
-      "classSection": "S6 CSE A"
+      "classSection": null
     },
     {
       "id": "u8",
@@ -1473,7 +1659,7 @@
       "password": "123456",
       "createdAt": "2026-11-15T02:27:37.947Z",
       "id": "pDRgmOt",
-      "classSection": "S4 CSE A"
+      "classSection": "S6 CSE A"
     },
     {
       "name": "Afsal",
@@ -1495,6 +1681,108 @@
       "id": "Ax-Qpkz",
       "approvedBy": "Jucy Vareed",
       "approvedAt": "2026-11-15T14:00:38.094Z"
+    },
+    {
+      "name": "Anu Mathew",
+      "email": "anuu@gmail.com",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "CSE2601",
+      "approved": true,
+      "listCheck": "dob_mismatch",
+      "approvalMethod": "class_teacher",
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-15T19:07:00.802Z",
+      "id": "owoTB6n",
+      "approvedBy": "Remya R",
+      "approvedAt": "2026-11-15T19:08:33.161Z"
+    },
+    {
+      "name": "Karthik Nair",
+      "email": "k@gmail.com",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "CSE2604",
+      "approved": true,
+      "listCheck": "dob_mismatch",
+      "approvalMethod": "class_teacher",
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-15T19:10:52.251Z",
+      "id": "knjF4-f",
+      "approvedBy": "Remya R",
+      "approvedAt": "2026-11-15T19:11:07.392Z"
+    },
+    {
+      "name": "Meera Joseph",
+      "email": "meeraj@gmail.com",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "CSE2611",
+      "approved": false,
+      "listCheck": "other_class",
+      "approvalMethod": "pending",
+      "rejected": true,
+      "password": "02122004",
+      "createdAt": "2026-11-15T19:20:12.379Z",
+      "id": "U4CWSsp",
+      "rejectedBy": "Remya R"
+    },
+    {
+      "name": "Meera Joseph",
+      "email": "meeraj@gmail.com",
+      "department": "Computer Science (CSE)",
+      "classSection": "S8 CSE A",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "CSE2611",
+      "approved": true,
+      "listCheck": "matched",
+      "approvalMethod": "class_list",
+      "approvedAt": "2026-11-15T19:24:14.289Z",
+      "rejected": false,
+      "password": "02122004",
+      "createdAt": "2026-11-15T19:24:14.289Z",
+      "id": "YGD6KT6"
+    },
+    {
+      "name": "Diya Menon",
+      "email": "diya@gmail.com",
+      "department": "Computer Science (CSE)",
+      "classSection": "S6 CSE A",
+      "baseType": "student",
+      "role": "student",
+      "duties": [
+        "student"
+      ],
+      "registerNo": "CSE2603",
+      "approved": true,
+      "listCheck": "matched",
+      "approvalMethod": "class_list",
+      "approvedAt": "2026-11-16T01:37:37.004Z",
+      "rejected": false,
+      "password": "123456",
+      "createdAt": "2026-11-16T01:37:37.004Z",
+      "id": "MIPQdv-"
     }
   ],
   "fests": [
